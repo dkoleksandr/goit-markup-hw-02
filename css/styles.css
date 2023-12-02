@@ -1,7 +1,14 @@
 /* Base styles */
 body {
   font-family: 'Roboto', sans-serif;
-  background: #FFF;
+  background: #fff;
+
+  /* Body */
+  /* font-size: 16px;
+  /* font-style: normal;
+  /* font-weight: 400; */
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
 }
 /* Reset styles */
 ul,
@@ -32,12 +39,16 @@ a {
 }
 .socials-item {
 }
+/* Section 1 --> Order */
 .order {
+  background:  #2E2F42;
 }
 .order-title {
 }
 .order-button {
 }
+
+/* Section 2 --> Feature */
 .features {
 }
 .features-list {
@@ -48,7 +59,10 @@ a {
 }
 .features-desc {
 }
+
+/* Section 3 --> Our Team */
 .team {
+  background: #F4F4FD;
 }
 .team-title {
 }
@@ -62,6 +76,8 @@ a {
 }
 .team-desc {
 }
+
+/* Section 4 --> Portfolio */
 .portfolio {
 }
 .portfolio-title {
@@ -78,7 +94,10 @@ a {
 }
 .portfolio-member {
 }
+
+/* Section 5 --> Footer */
 .footer {
+  background:  #2E2F42;
 }
 .footer-link {
 }

@@ -75,6 +75,7 @@ h3 {
 .socials-item {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 .socials-item:hover,
 socials-item:focus {
@@ -96,6 +97,7 @@ socials-item:focus {
 
 .order-button {
   background: #4d5ae5;
+  color: var(--WHITE, #fff);
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.04em;
@@ -107,7 +109,6 @@ socials-item:focus {
 }
 
 .button-text {
-  color: var(--WHITE, #fff);
 
 }
 

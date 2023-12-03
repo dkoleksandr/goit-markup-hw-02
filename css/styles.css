@@ -63,9 +63,9 @@ h3 {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.item-list:focus,
-.item-list:hover,
-.item-list:active {
+.item-link:focus,
+.item-link:hover,
+.item-link:active {
   color: #404bbf;
 }
 
@@ -78,8 +78,8 @@ h3 {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.socials-item:hover,
-.socials-item:focus {
+.socials-item-link:hover,
+.socials-item-link:focus {
   color: #404bbf;
 }
 

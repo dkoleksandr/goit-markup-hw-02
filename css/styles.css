@@ -63,9 +63,9 @@ h3 {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.header-item:focus,
-.header-item:hover,
-.header-item:active {
+.item-list:focus,
+.item-list:hover,
+.item-list:active {
   color: #404bbf;
 }
 

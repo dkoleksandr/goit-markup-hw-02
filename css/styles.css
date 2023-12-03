@@ -69,13 +69,13 @@ h3 {
 }
 
 .header-address {
+  font-style: normal;
 }
 .header-socials {
 }
 .socials-item {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 .socials-item:hover,
 socials-item:focus {

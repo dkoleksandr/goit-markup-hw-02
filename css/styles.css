@@ -1,6 +1,6 @@
 /* Base styles */
 body {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #434455;
   background-color: #fff;
   font-family: 'Roboto', sans-serif;
 
@@ -96,16 +96,12 @@ socials-item:focus {
 }
 
 .order-button {
-  border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .order-button:hover,
 .order-button:focus {
-  border-radius: 4px;
   background: var(--OCEAN, #404bbf);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .button-text {
@@ -140,11 +136,7 @@ socials-item:focus {
 .team-list {
 }
 .team-item {
-  border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .team-icon {
 }
@@ -165,7 +157,6 @@ text-align: center;
 .portfolio-list {
 }
 .portfolio-item {
-border: 1px solid var(--CORNFLOWER, #E7E9FC);
 background: var(--WHITE, #FFF);
 }
 .portfolio-icon {

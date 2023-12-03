@@ -64,7 +64,8 @@ h3 {
   letter-spacing: 0.02em;
 }
 .header-item:focus,
-.header-item:hover {
+.header-item:hover,
+.header-item:active {
   color: #404bbf;
 }
 
